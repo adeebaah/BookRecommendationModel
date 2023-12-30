@@ -14,7 +14,7 @@ The dataset used for this project includes information about books, users, and b
 
 To run the code locally, follow these steps:
 
-1. Make sure you have Python and Anaconda installed in your system.
+1. Make sure you have Python, Anaconda and Jupyter Notebook installed on your system.
 
 1. Clone the repository:
 
@@ -30,3 +30,8 @@ To run the code locally, follow these steps:
 
    ```bash
    jupyter notebook
+
+4. Run the app using the following command in the terminal:
+
+   ````bash
+   streamlit run app.py
