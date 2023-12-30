@@ -8,7 +8,7 @@ The book recommender system uses collaborative filtering to recommend books to u
 
 ## Dataset
 
-The dataset used for this project includes information about books, users, and book ratings. It can be downloaded [here].(https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset).
+The dataset used for this project includes information about books, users, and book ratings. It can be downloaded from [this link](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset).
 
 ## Installation
 
